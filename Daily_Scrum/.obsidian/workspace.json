@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "짬 공부 📚/무제 파일.md",
+                "file": "짬 공부 📚/SCSS에서 @import 보다 @use 사용하는 이유.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제 파일"
+              "title": "SCSS에서 @import 보다 @use 사용하는 이유"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "짬 공부 📚/무제 파일.md",
+                "file": "짬 공부 📚/SCSS에서 @import 보다 @use 사용하는 이유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "무제 파일의 백링크"
+              "title": "SCSS에서 @import 보다 @use 사용하는 이유의 백링크"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "짬 공부 📚/무제 파일.md",
+                "file": "짬 공부 📚/SCSS에서 @import 보다 @use 사용하는 이유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "무제 파일의 나가는 링크"
+              "title": "SCSS에서 @import 보다 @use 사용하는 이유의 나가는 링크"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "짬 공부 📚/무제 파일.md"
+                "file": "짬 공부 📚/SCSS에서 @import 보다 @use 사용하는 이유.md"
               },
               "icon": "lucide-list",
-              "title": "무제 파일 개요"
+              "title": "SCSS에서 @import 보다 @use 사용하는 이유 개요"
             }
           }
         ]
@@ -180,7 +180,7 @@
   },
   "active": "2eaf192c16e9ed98",
   "lastOpenFiles": [
-    "짬 공부 📚/무제 파일.md",
+    "짬 공부 📚/SCSS에서 @import 보다 @use 사용하는 이유.md",
     "짬 공부 📚",
     "Welcome.md"
   ]
