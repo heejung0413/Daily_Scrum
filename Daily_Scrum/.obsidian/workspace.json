@@ -37,22 +37,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "441a12e467724d9d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "048ccf577df74678",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03c505a779992ad8",
+  "active": "2eaf192c16e9ed98",
   "lastOpenFiles": [
+    "짬 공부 📚/무제 파일.md",
     "짬 공부 📚",
-    "Welcome.md",
-    "짬 공부 📚/무제 파일.md"
+    "Welcome.md"
   ]
 }
